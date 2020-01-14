@@ -1,1 +1,3 @@
-console.log('Hello World!');
+let obj = {
+    "bills": [124, 48, 268]
+}
